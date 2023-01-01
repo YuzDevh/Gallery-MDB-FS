@@ -3,7 +3,7 @@
 Tugas fullstack
 membuat simple Gallery dengan popup image dan scrolling
 
-####Gallery BUG:
+#### Gallery BUG:
 - Responsive Page masih berantakan
 - Image belum bisa menyesuaikan ukuran dengan pembungkusnya
 - Teks di Thumbnail juga sama
@@ -13,5 +13,6 @@ membuat simple Gallery dengan popup image dan scrolling
 
 Segini dulu paling udah 3 hari ngoding walaupun niron tapi tetap perlu ada yang dirubah dan ditambahkan bikin otak mikir dan belajar..:D
 
-Framework menggunakan [Material Design for Bootstrap}(https://mdbootstrap.com/)
+Framework menggunakan [Material Design for Bootstrap](https://mdbootstrap.com/) 
+
 Code editor menggunakan Spck NodeJS Versi 3.0.3.1 (Android) dan VsCode (PC)
