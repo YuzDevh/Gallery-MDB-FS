@@ -9,7 +9,8 @@ membuat gallery dengan pop up Image dan scrolling
 - Text deskripsi di thumbnail juga sama
 - Jika text nya panjang otomatis melebihi pembungkusnya
 
-Framwork menggunakan [Material Design Bootstarp 5]("https://mdbootstrap.com/") 
+Framwork menggunakan [Material Design Bootstarp 5](https://mdbootstrap.com/) 
+
 Code editor Spck NodeJS Versi 3.0.3.1 (Android) dan VS code (PC)
 
 
