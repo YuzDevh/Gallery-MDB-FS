@@ -1,6 +1,6 @@
 # Gallery-MDB-FS
 
-Tugas fullstack
+Tugas Frontend 1
 membuat simple Gallery dengan popup image dan scrolling
 
 #### Gallery BUG:
